@@ -1,0 +1,27 @@
+div.jumbotron.Carousel-Services {
+  color: #fff;
+  text-align: center;
+  background-size: cover;
+  background-position: center;
+}
+
+div.jumbotron.Services-Index {
+  background-image: url('../../assets/img/Index/Index-Header.jpg');
+}
+
+div.jumbotron.Services-Hosting {
+  background-image: url('../../assets/img/Index/Services-Hosting.jpg');
+}
+
+div.jumbotron.Services-Content {
+  background-image: url('../../assets/img/Index/Services-Content.jpg');
+}
+
+div.jumbotron.Services-Development {
+  background-image: url('../../assets/img/Index/Services-Development.jpg');
+}
+
+div.jumbotron.Services-Support {
+  background-image: url('../../assets/img/Index/Services-Support.jpg');
+}
+

@@ -1,0 +1,12 @@
+.zoom-on-hover:hover .image {
+  transform: scale(1.3);
+}
+
+.portfolio-block.photography .item {
+  overflow: hidden;
+}
+
+.portfolio-block.photography .item a img {
+  transition: .8s ease;
+}
+
